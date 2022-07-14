@@ -3,7 +3,7 @@
         i enjoy self study , testing and detecting error and avoid them .I have learnt and work with html5 , css3 , bootstrap , javascript ,
          jQuery , sass , adob Photoshop, generally i am interested in many fields programming, web design and development,</h3>
     
-    <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmed-saber7011&label=Profile%20views&color=0e75b6&style=flat" alt="ahmed-saber7011" /> </p>
+   <img src="https://komarev.com/ghpvc/?username=ahmed-saber7011&label=Profile%20views&color=0e75b6&style=flat" alt="ahmed-saber7011" /> 
     
   <p>   - 🔭 I’m currently working on **I’m currently working on web development technologies like JavaScript, React etc.**</p> 
     
