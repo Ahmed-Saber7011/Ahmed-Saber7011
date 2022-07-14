@@ -8,7 +8,7 @@
     
   <p>   - 🌱 I’m currently learning everything about Frontend and Backend technologies 😅**</p> 
     
-   <p>  - 👨‍💻 All of my projects are available at  I’m currently working on web development technologies like JavaScript, React etc.</p>
+   <p>  - 👨‍💻  I’m currently working on web development technologies like JavaScript, React etc.</p>
    <p>   - 💬 Ask me about: Frontend and Backend</p>
     
    <h3 align="left">Connect with me:</h3>
