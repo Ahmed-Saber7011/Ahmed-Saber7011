@@ -4,13 +4,12 @@
          jQuery , sass , adob Photoshop, generally i am interested in many fields programming, web design and development,</h3>
     <img src="https://raw.githubusercontent.com/urbanisierung/urbanisierung/master/that-was-more-work-than-i-thought.svg" alt="ahmed-saber7011" /> 
     
-   <img src="https://komarev.com/ghpvc/?username=ahmed-saber7011&label=Profile%20views&color=0e75b6&style=flat" alt="ahmed-saber7011" /> 
+   <img src="https://komarev.com/ghpvc/?username=ahmed-saber7011&label=Profile%20views&color=0e75b6&style=flat" alt="ahmed-saber7011" />  
     
-  <p>   - 🔭 I’m currently working on **I’m currently working on web development technologies like JavaScript, React etc.**</p> 
+  <p>   - 🌱 I’m currently learning everything about Frontend and Backend technologies 😅**</p> 
     
-  <p>   - 🌱 I’m currently learning **I’m currently learning everything about Frontend and Backend technologies 😅**</p> 
-    
-   <p>  - 👨‍💻 All of my projects are available at [I’m currently working on web development technologies like JavaScript, React etc.](I’m currently working on web development technologies like JavaScript, React etc.)</p> 
+   <p>  - 👨‍💻 All of my projects are available at  I’m currently working on web development technologies like JavaScript, React etc.</p>
+   <p>   - 💬 Ask me about: Frontend and Backend</p>
     
    <h3 align="left">Connect with me:</h3>
     
